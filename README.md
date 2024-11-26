@@ -16,4 +16,5 @@
 
 
 ## Program Output:
+![image](https://github.com/user-attachments/assets/4cc21856-349b-4652-b9d1-a5c826af6fa5)
 
